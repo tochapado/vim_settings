@@ -6,16 +6,19 @@ set history=200
 set ruler
 set scrolloff=3
 set cursorline
+highlight CursorLine cterm=none
 set shiftwidth=2
 set tabstop=2
+set expandtab
 set incsearch
 set ignorecase
 set smartcase
 set showcmd
 set showmode
 set showmatch
+set autoindent
+set smartindent
 set hlsearch
-
 
 filetype plugin indent on
 
