@@ -9,7 +9,6 @@ set cursorline
 highlight CursorLine cterm=none
 set shiftwidth=2
 set tabstop=2
-set expandtab
 set incsearch
 set ignorecase
 set smartcase
@@ -17,7 +16,6 @@ set showcmd
 set showmode
 set showmatch
 set autoindent
-set smartindent
 set hlsearch
 set belloff=all
 set backspace=indent,eol,start
