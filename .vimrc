@@ -19,6 +19,8 @@ set showmatch
 set autoindent
 set smartindent
 set hlsearch
+set belloff=all
+set backspace=indent,eol,start
 
 filetype plugin indent on
 
